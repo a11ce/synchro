@@ -1,2 +1,2 @@
-# synchro
-Synchronized Music Playback in Python
+# Synchro
+Server works, client code is lost. (August 2017)
